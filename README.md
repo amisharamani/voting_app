@@ -8,6 +8,8 @@ A new Flutter project.
 ![1](https://github.com/amisharamani/voting_app/assets/130687844/9d5dc305-5153-4c0d-a585-36d5ca17470f)
 ![2](https://github.com/amisharamani/voting_app/assets/130687844/84c30790-cc46-4a0c-bcc5-37fabc66b772)
 ![3](https://github.com/amisharamani/voting_app/assets/130687844/6c18da24-6686-4d28-953b-c6c9cce4bbb7)
+![4](https://github.com/amisharamani/voting_app/assets/130687844/385e53d4-66a4-407b-8882-6a294d1cc122)
+
 
 ## Getting Started
 
