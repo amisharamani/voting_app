@@ -5,6 +5,9 @@ A new Flutter project.
 ![IMG-20230930-WA0019](https://github.com/amisharamani/voting_app/assets/130687844/4a47d600-c2d5-4612-be6f-25d1636a4b8b)
 ![IMG-20230930-WA0020](https://github.com/amisharamani/voting_app/assets/130687844/99766c94-fbca-4e29-b467-c55e44bb2360)
 ![IMG-20230930-WA0021](https://github.com/amisharamani/voting_app/assets/130687844/fa0ca58a-a954-4ee3-8ad6-30f5db1a71ae)
+![1](https://github.com/amisharamani/voting_app/assets/130687844/9d5dc305-5153-4c0d-a585-36d5ca17470f)
+![2](https://github.com/amisharamani/voting_app/assets/130687844/84c30790-cc46-4a0c-bcc5-37fabc66b772)
+![3](https://github.com/amisharamani/voting_app/assets/130687844/6c18da24-6686-4d28-953b-c6c9cce4bbb7)
 
 ## Getting Started
 
