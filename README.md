@@ -1,6 +1,10 @@
 # voting_app
 
 A new Flutter project.
+![IMG-20230930-WA0022](https://github.com/amisharamani/voting_app/assets/130687844/77293314-5c32-45a2-9132-61b3d93d1bc0)
+![IMG-20230930-WA0019](https://github.com/amisharamani/voting_app/assets/130687844/4a47d600-c2d5-4612-be6f-25d1636a4b8b)
+![IMG-20230930-WA0020](https://github.com/amisharamani/voting_app/assets/130687844/99766c94-fbca-4e29-b467-c55e44bb2360)
+![IMG-20230930-WA0021](https://github.com/amisharamani/voting_app/assets/130687844/fa0ca58a-a954-4ee3-8ad6-30f5db1a71ae)
 
 ## Getting Started
 
